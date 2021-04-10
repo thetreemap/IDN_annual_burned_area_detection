@@ -4,3 +4,5 @@ This code generates annual pre- and post-fire national (Indonesia) composite ima
 The code can be accessed directly in GEE at the following link: https://code.earthengine.google.com/e6391f1a0dcea8c7522d2403a4d1ec41
 
 Code created by Mohammad Agus Salim, Adrià Descals and David Gaveau from TheTreeMap (https://thetreemap.com/) 
+
+Licensed under a Creative Commons Attribution 4.0 International License.
